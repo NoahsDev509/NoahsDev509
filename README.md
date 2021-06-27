@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @NoahsDev509
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning nothing
+👋 Hello I'm NoahsDev509
+
+🤭 The thing that I'm interested in is coding
+
+# Projects
